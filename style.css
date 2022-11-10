@@ -1,0 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Xanh+Mono&display=swap');
+:root {
+    --font-family: 'Xanh Mono', monospace;
+    --bg-color: #F7A4A4;
+    --primary-color: #FFFBC1;
+}
